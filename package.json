@@ -1,0 +1,14 @@
+{
+  "name": "cypress-sample-framework",
+  "version": "1.0.0",
+  "description": "sample framework for cypress based ui automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "age",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  }
+}
