@@ -32,6 +32,9 @@ Cypress.Commands.add('Login', () => {
   })
 })
 
+const compareSnapshotCommand = require('cypress-image-diff-js/dist/command');
+compareSnapshotCommand();
+
 //
 //
 // -- This is a child command --

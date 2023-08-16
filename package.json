@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^12.17.3"
+  },
+  "dependencies": {
+    "cypress-image-diff-js": "^1.27.0"
   }
 }
